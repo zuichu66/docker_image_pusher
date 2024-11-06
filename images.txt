@@ -1,1 +1,1 @@
-php.81-fpm
+php:8-apache
